@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+div {
+    color: azure;
+    margin-top: 5vw;
+    font-size: 2vw;
+}
+img {
+    height: 30vw;
+}
+#i {
+    display: flex;
+    margin: 0 5vw;
+}
+p {
+    margin: 4vw 4vw;
+}
+main {
+    background-image:url(../png/image.webp);
+}

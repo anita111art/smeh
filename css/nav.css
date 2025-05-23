@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: azure;
+}
+ol {
+    list-style: none;
+}
+li {
+    background: #c9c;
+    padding: 20px 0px;
+    width: 30%;
+    border: 1px solid #a7a;
+}
+#c {
+    display: flex;
+    justify-content: space-around;
+}
+#con {
+    display: none;
+    z-index: 1;
+}
+li:hover {
+    background: #97a;
+}
+main {
+    height: 1000px;
+    margin-top: 50px;
+}
